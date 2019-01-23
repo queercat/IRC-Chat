@@ -1,0 +1,11 @@
+{
+    "bot_nick": "example_bot_nick",
+    "bot_alt_nick": "example_bot_kick_alt",
+    "bot_real_name": "Bot McBotterson",
+    "user_mode": 0,
+    "host_address": "<INSERT IRC ADDRESS HERE>",
+    "port": <PORT TO IRC SERVER 0000>,
+    "ssl": <SSL ENBALED true or false>,
+    "channel": "<#EXAMPLE_CHANNEL>",
+    "output_file": "log/chat.txt"
+}
